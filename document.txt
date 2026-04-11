@@ -1,0 +1,14 @@
+To move to top-tier companies (Amazon, Zoho, etc.), focus on:
+
+Pattern mastery
+Sliding Window
+Two Pointer
+Binary Search
+Recursion & Backtracking
+DSA Depth
+Trees
+Graphs
+Dynamic Programming
+Code Quality
+Naming (a → arr)
+Comments (optional but useful in interviews)
